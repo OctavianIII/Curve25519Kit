@@ -3,7 +3,7 @@
 //
 
 import Foundation
-import ../../SignalCoreKit
+import SignalCoreKit
 
 public enum ECKeyError: Error {
     case assertionError(description: String)
